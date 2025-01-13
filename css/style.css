@@ -11,10 +11,9 @@ button{
 }
 
 .vedi{
-   background-color: aquamarine;
+   display: block;
 }
 
 .nascosto{
     display: none;
-    background-color: black;
 }
