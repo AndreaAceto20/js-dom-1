@@ -1,0 +1,20 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    border-radius: 5px;
+}
+
+.vedi{
+   background-color: aquamarine;
+}
+
+.nascosto{
+    display: none;
+    background-color: black;
+}
